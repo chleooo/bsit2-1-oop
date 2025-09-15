@@ -23,6 +23,6 @@ class PetClinicSystem {
         trainer.train((Trainable) buddy);
         trainer.train((Trainable) tweety);
         System.out.println();
-        PetService.main(null);  // call the service price list
+        PetService.main(null); 
     }
 }
